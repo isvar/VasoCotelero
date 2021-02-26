@@ -39,12 +39,3 @@ cylinder(y)
 hold on;
 cylinder(y_alt2)
 
-
-
-
-
-% A = [1 3 -1; 1 -1 3;2 2 4];
-% B = [8 0 -4];
-% B * inv(A)
-
-
